@@ -1,0 +1,4 @@
+.thumbnail {background-color: rgb(10, 188, 233); width: 20px; height: 20px; }
+body {margin-top: 33px;}
+.thumbnail .caption {background-color: #c5cfd3;}
+.image {text-align: center;width: 5px; height: 5px;}
